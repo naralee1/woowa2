@@ -36,6 +36,7 @@ section {
   align-items: center;
   height: 110px;
   padding: 0 3%;
+  background: yellow;
 }
 #header h1 a {
   display: block;
